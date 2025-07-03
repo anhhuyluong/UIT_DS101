@@ -31,7 +31,7 @@
 | ------ |:-------------:| ----------------------:|----------:|-------------------------:
 | 1      |22520550|Lương Anh Huy|Trưởng nhóm| 22520550@gm.uit.edu.vn|
 | 2      |22520521|Phạm Đông Hưng|Thành viên| 22520521@gm.uit.edu.vn|
-| 1      |22520884|Phan Công Minh|Thành viên| 22520884@gm.uit.edu.vn|
+| 3      |22520884|Phan Công Minh|Thành viên| 22520884@gm.uit.edu.vn|
 | 4      |22520967|Hồng Khải Nguyên|Thành viên| 22520967@gm.uit.edu.vn|
 
 ## 🛠️ Công nghệ và thư viện
